@@ -9,7 +9,9 @@
 
 <div>
 <a href="https://github.com/juliano-nSantos">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliano-nSantos&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="Juliano github stats" />
+<img align="center" 
+src="https://github-readme-stats.vercel.app/api?username=juliano-nSantos&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" 
+  alt="Juliano github stats" />
 </a>
 <a href="https://github.com/juliano-nSantos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliano-nSantos&layout=compact&theme=dark&hide_border=true" />
